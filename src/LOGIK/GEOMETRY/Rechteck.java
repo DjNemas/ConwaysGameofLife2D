@@ -1,9 +1,6 @@
 package LOGIK.GEOMETRY;
 
 import RENDER.Display.DisplayManager;
-import java.util.ArrayList;
-import java.util.Random;
-import org.lwjgl.opengl.Display;
 import org.lwjgl.opengl.GL11;
 
 public class Rechteck 

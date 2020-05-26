@@ -3,15 +3,10 @@ package LOGIK.MODEL;
 import LOGIK.GEOMETRY.Punkt;
 import LOGIK.GEOMETRY.Rechteck;
 import RENDER.Display.DisplayManager;
-import java.io.IOException;
 import java.util.ArrayList;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import org.lwjgl.input.Keyboard;
-import org.lwjgl.input.Mouse;
 import org.lwjgl.opengl.Display;
 import org.lwjgl.opengl.GL11;
-import org.lwjgl.opengl.GL14;
 public class Game 
 {  
     ArrayList<ArrayList<Rechteck>> rechteckAL1 = new ArrayList();
